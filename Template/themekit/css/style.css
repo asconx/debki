@@ -3484,6 +3484,7 @@ IMAGE BOX - COMPONENT
     position: relative;
     border-radius: 3px;
     transition: all .5s;
+    width: 100%;
 }
 
 .img-box:hover img {
